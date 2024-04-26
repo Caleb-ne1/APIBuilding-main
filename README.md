@@ -1,5 +1,5 @@
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
     <div style="margin-bottom: 20px;">
         <img src="/static/images/random-student-page.png" alt="Random student Page" width="200" height="200">
     </div>
