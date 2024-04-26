@@ -1,14 +1,14 @@
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <div style="margin-bottom: 20px;">
-        <img src="/static/images/random-student-page.png" alt="Random student Page" width="200" height="200">
+        <img src="/static/images/random-student-page.png" alt="Random student Page" width="300" height="300">
     </div>
     <div style="display: flex; justify-content: center;">
         <div style="flex: 1;">
-            <img src="/static/images/random-dog-page.png" alt="Image 1" width="200" height="200">
+            <img src="/static/images/random-dog-page.png" alt="Image 1" width="300" height="300">
         </div>
         <div style="flex: 1;">
-            <img src="/static/images/random-fact-page.png" alt="Image 2" width="200" height="200">
+            <img src="/static/images/random-fact-page.png" alt="Image 2" width="300" height="300">
         </div>
     </div>
 </div>
